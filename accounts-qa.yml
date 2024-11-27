@@ -5,7 +5,8 @@ accounts:
     message: "Welcome to this Application"
     contactPerson:
         name: "Kamal_QA"
-        email: "abc@gmail.com"
+        email: "{cipher}4d7a2dc392b2518d69b330c36b11c3d8104da391e951a8783e7ad949abc16587
+"
     contactInfo:
         - 9876568
         - 9879976
