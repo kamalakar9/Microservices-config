@@ -1,0 +1,11 @@
+
+build:
+    version: "1.0"
+accounts:
+    message: "Welcome to this Application"
+    contactPerson:
+        name: "Kamal_Dev"
+        email: abc@gmail.com
+    contactInfo:
+        - 9876568
+        - 9879976
