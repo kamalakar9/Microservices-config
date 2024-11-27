@@ -5,7 +5,7 @@ loans:
     message: "Welcome to this Application"
     contactPerson:
         name: "Kamal_QA"
-        email: abc@gmail.com
+        email: "abc@gmail.com"
     contactInfo:
         - 9876568
         - 9879976
