@@ -2,7 +2,7 @@
 build:
     version: "3.0"
 accounts:
-    message: "Welcome to this production change webhook Application"
+    message: "Welcome to this production webhook Application"
     contactPerson:
         name: "Kamal_Prod"
         email: "abc@gmail.com"
